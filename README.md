@@ -20,12 +20,13 @@ Acknowledgements
 * Tim Pope's:
   * [vim-pathogen][pathogen
   * [vim-fugitive][fugitive]
-* drew@vimcasts.org:
-  * [Vimcast #27][vimcast] - Synchronizing plugins with git submodules and pathogen
+* Drew Neil of [vimcasts.org][vimcasts]:
+  * [Vimcast #27][vimcast27] - Synchronizing plugins with git submodules and pathogen
   
 
 
 
 [pathogen]: https://github.com/tpope/vim-pathogen
 [fugitive]: https://github.com/tpope/vim-fugitive
-[vimcast]: http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
+[vimcasts]: http://vimcasts.org/
+[vimcast27]: http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
