@@ -37,11 +37,6 @@ set t_Co=256
 set background=dark
 colorscheme zenburn
 
-" Extra file types
-syntax on
-filetype on
-au BufNewFile,BufRead *.hamlpy set filetype=haml
-
 " Set the font.
 if has( "gui_running" )
     if has( "gui_gtk2" )
