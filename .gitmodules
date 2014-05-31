@@ -13,3 +13,15 @@
 [submodule "bundle/tpope-sensible"]
 	path = bundle/tpope-sensible
 	url = https://github.com/tpope/vim-sensible
+[submodule "bundle/syntax-cpp11"]
+	path = bundle/syntax-cpp11
+	url = https://github.com/vim-scripts/Cpp11-Syntax-Support
+[submodule "bundle/syntax-cpp-stl"]
+	path = bundle/syntax-cpp-stl
+	url = https://github.com/Mizuchi/STL-Syntax
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/nathanrosspowell/supertab
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim
