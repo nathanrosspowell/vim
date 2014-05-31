@@ -26,7 +26,7 @@ sudo apt-get autoremove
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Get the current dir of this script.
 current_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-pushd current_dir
+pushd $current_dir
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Symbolic links for vim
 create_new_symlink . ~/.vim
