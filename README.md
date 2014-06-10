@@ -21,7 +21,7 @@ Acknowledgements
   * [vim-pathogen][pathogen]
   * [vim-fugitive][fugitive]
   * [vim-sensible][sensible]
-  * 
+ 
 * Drew Neil of [vimcasts.org][vimcasts]:
   * [Vimcast #27][vimcast27] - Synchronizing plugins with git submodules and pathogen
   
