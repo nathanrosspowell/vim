@@ -92,3 +92,7 @@ au BufNewFile,BufRead *.inl set syntax=cpp11
 au BufNewFile,BufRead *.cpp set syntax=cpp11
 au BufNewFile,BufRead *.h set syntax=cpp11
 au BufNewFile,BufRead *.hpp set syntax=cpp11
+
+" Arduino file types
+au BufRead,BufNewFile *.ino set filetype=cpp
+au BufNewFile,BufRead *.ino set syntax=cpp11
