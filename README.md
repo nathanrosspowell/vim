@@ -25,7 +25,8 @@ Acknowledgements
 * Drew Neil of [vimcasts.org][vimcasts]:
   * [Vimcast #27][vimcast27] - Synchronizing plugins with git submodules and pathogen
   
-
+* [Vim.org][vimorg] resources:
+  * [gVim on Windows guide][vimwin]
 
 
 [pathogen]: https://github.com/tpope/vim-pathogen
@@ -33,3 +34,5 @@ Acknowledgements
 [sensible]: https://github.com/tpope/vim-sensible
 [vimcasts]: http://vimcasts.org/
 [vimcast27]: http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
+[vimorg]: http://vim.org
+[vimwin]: http://www.vim.org/ugrankar.pdf
